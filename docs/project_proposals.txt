@@ -1,2 +1,5 @@
 Idea 1:
 A user logs into our service and uploads a picture or provides a keyword of interest. In the case of the image, we run it through an image classification service that will output a keyword with some confidence. We use that keyword to query the Reddit API and find subreddits and/or posts that might interest the user. We can manage the users’ subscriptions on their behalf and keep track of changes we have made through our database in the case that the user wants to keep track of/manage changes that our application has made. Depending on the success of previous barebones goals, we may want to add features to our dashboard that for example curate posts for the user.
+
+Idea 2:
+User authenticates with their Fitbit account and authorizes our application to see their health data. We recommend nearby healthy food options within walking distance with options to filter by price, food category, etc. Depending on the user’s fitness level, we can recommend places that are further away. We may even use a bike sharing API to extend the viable distance even further. In our database, we will store a user’s past destinations to make informed future decisions. 
