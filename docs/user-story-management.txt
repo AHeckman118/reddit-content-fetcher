@@ -1,0 +1,10 @@
+User Story: Manage App Changes
+
+- When logged in, the user clicks a tab or button to bring them to
+  the "Management" page
+
+- From there, the user is presented with a table of subreddits our application
+  has subscribed them to along with a timestamp of when it happened
+
+- The user can click a button in each row to unsubscribe from the corresponding
+  subreddit and regenerate the table 
