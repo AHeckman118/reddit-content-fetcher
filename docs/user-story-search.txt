@@ -1,0 +1,5 @@
+I as the user, would like the ability to input either a small text string or an image.  
+
+The website should give me the option of which I wanted to input with a simple toggle on the search page.  Once I add an image, it should appear so I can confirm I uploaded the correct image.  
+
+The service should then populate a list of subreddits, organized by how likely they are to fit with my input.
