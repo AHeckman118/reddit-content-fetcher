@@ -1,0 +1,9 @@
+I, a user who isn’t logged into Reddit, want to sign up and get some recommendations for subreddits.  
+
+To do this, I’ve found this web app and have tried to sign in.  
+
+If I don’t have an account, it points me to Reddit to make one.  
+
+If I do, I enter my login information and get taken to the Search story.  
+
+If I enter my login information incorrectly, the app tells me and I am prompted to reenter it.
